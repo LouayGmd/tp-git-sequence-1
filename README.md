@@ -1,6 +1,4 @@
-# Bienvenue
-Programme C++ qui affiche "Bienvenue le monde !"
-```sh
+``sh
 $ make rebuild
 Fabrication du programme : bienvenue
 rm -f *.o
